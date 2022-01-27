@@ -1,0 +1,248 @@
+
+[{"comments":"WARN: Data is from Wikipidia and convert to json by Metis Teng. This is only for practice purpose.",
+  "sourceBy":"https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E8%A1%8C%E6%94%BF%E5%8D%80%E4%BA%BA%E5%8F%A3%E5%AF%86%E5%BA%A6%E8%A1%A8",
+  "data":[
+    {
+      "rank": 1,
+      "city": "新北市",
+      "EngName": "New Taipei City",
+      "cata": "直轄市",
+      "cityFlag": "",
+      "area": "2,052.5667",
+      "population": "4,008,113",
+      "increasingRate": "-3,473",
+      "councilLocation": "板橋區"
+    },
+    {
+      "rank": 2,
+      "city": "臺中市",
+      "EngName": "Taichung City",
+      "cata": "直轄市",
+      "cityFlag": "",
+      "area": "2,214.8968",
+      "population": "2,813,490",
+      "increasingRate": "-932",
+      "councilLocation": "西屯區\n豐原區"
+    },
+    {
+      "rank": 3,
+      "city": "高雄市",
+      "EngName": "Kaohsiung City",
+      "cata": "直轄市",
+      "cityFlag": "",
+      "area": "2,951.8524",
+      "population": "2,744,691",
+      "increasingRate": "-2,248",
+      "councilLocation": "鳳山區\n苓雅區"
+    },
+    {
+      "rank": 4,
+      "city": "臺北市",
+      "EngName": "Taipei City",
+      "cata": "直轄市",
+      "cityFlag": "",
+      "area": "271.7997",
+      "population": "2,524,393",
+      "increasingRate": "-7,266",
+      "councilLocation": "信義區"
+    },
+    {
+      "rank": 5,
+      "city": "桃園市",
+      "EngName": "Taoyuan City",
+      "cata": "直轄市",
+      "cityFlag": "",
+      "area": "1,220.9540",
+      "population": "2,272,391",
+      "increasingRate": "-61",
+      "councilLocation": "桃園區"
+    },
+    {
+      "rank": 6,
+      "city": "臺南市",
+      "EngName": "Tainan City",
+      "cata": "直轄市",
+      "cityFlag": "",
+      "area": "2,191.6531",
+      "population": "1,862,059",
+      "increasingRate": "-1,376",
+      "councilLocation": "安平區\n新營區"
+    },
+    {
+      "rank": 7,
+      "city": "彰化縣",
+      "EngName": "Changhua County",
+      "cata": "縣",
+      "cityFlag": "",
+      "area": "1,074.3960",
+      "population": "1,255,330",
+      "increasingRate": "-732",
+      "councilLocation": "彰化市"
+    },
+    {
+      "rank": 8,
+      "city": "屏東縣",
+      "EngName": "Pingtung County",
+      "cata": "縣",
+      "cityFlag": "",
+      "area": "2,775.6003",
+      "population": "804,440",
+      "increasingRate": "-737",
+      "councilLocation": "屏東市"
+    },
+    {
+      "rank": 9,
+      "city": "雲林縣",
+      "EngName": "Yunlin County",
+      "cata": "縣",
+      "cityFlag": "",
+      "area": "1,290.8326",
+      "population": "670,132",
+      "increasingRate": "-532",
+      "councilLocation": "斗六市"
+    },
+    {
+      "rank": 10,
+      "city": "新竹縣",
+      "EngName": "Hsinchu County",
+      "cata": "縣",
+      "cityFlag": "",
+      "area": "1,427.5369",
+      "population": "575,580",
+      "increasingRate": "+449",
+      "councilLocation": "竹北市"
+    },
+    {
+      "rank": 11,
+      "city": "苗栗縣",
+      "EngName": "Miaoli County",
+      "cata": "縣",
+      "cityFlag": "",
+      "area": "1,820.3149",
+      "population": "538,178",
+      "increasingRate": "-390",
+      "councilLocation": "苗栗市"
+    },
+    {
+      "rank": 12,
+      "city": "嘉義縣",
+      "EngName": "Chiayi County",
+      "cata": "縣",
+      "cityFlag": "",
+      "area": "1,903.6367",
+      "population": "493,316",
+      "increasingRate": "-539",
+      "councilLocation": "太保市"
+    },
+    {
+      "rank": 13,
+      "city": "南投縣",
+      "EngName": "Nantou County",
+      "cata": "縣",
+      "cityFlag": "",
+      "area": "4,106.4360",
+      "population": "484,897",
+      "increasingRate": "-582",
+      "councilLocation": "南投市"
+    },
+    {
+      "rank": 14,
+      "city": "新竹市",
+      "EngName": "Hsinchu City",
+      "cata": "市",
+      "cityFlag": "",
+      "area": "104.1526",
+      "population": "452,640",
+      "increasingRate": "-25",
+      "councilLocation": "北區"
+    },
+    {
+      "rank": 15,
+      "city": "宜蘭縣",
+      "EngName": "Yilan County",
+      "cata": "縣",
+      "cityFlag": "",
+      "area": "2,143.6251",
+      "population": "450,692",
+      "increasingRate": "-252",
+      "councilLocation": "宜蘭市"
+    },
+    {
+      "rank": 16,
+      "city": "基隆市",
+      "EngName": "Keelung City",
+      "cata": "市",
+      "cityFlag": "",
+      "area": "132.7589",
+      "population": "363,977",
+      "increasingRate": "-373",
+      "councilLocation": "中正區"
+    },
+    {
+      "rank": 17,
+      "city": "花蓮縣",
+      "EngName": "Hualien County",
+      "cata": "縣",
+      "cityFlag": "",
+      "area": "4,628.5714",
+      "population": "321,358",
+      "increasingRate": "-339",
+      "councilLocation": "花蓮市"
+    },
+    {
+      "rank": 18,
+      "city": "嘉義市",
+      "EngName": "Chiayi City",
+      "cata": "市",
+      "cityFlag": "",
+      "area": "60.0256",
+      "population": "264,727",
+      "increasingRate": "-227",
+      "councilLocation": "東區"
+    },
+    {
+      "rank": 19,
+      "city": "臺東縣",
+      "EngName": "Taitung County",
+      "cata": "縣",
+      "cityFlag": "",
+      "area": "3,515.2526",
+      "population": "213,386",
+      "increasingRate": "-148",
+      "councilLocation": "臺東市"
+    },
+    {
+      "rank": 20,
+      "city": "金門縣",
+      "EngName": "Kinmen County",
+      "cata": "縣",
+      "cityFlag": "",
+      "area": "151.6560",
+      "population": "141,539",
+      "increasingRate": "+212",
+      "councilLocation": "金城鎮"
+    },
+    {
+      "rank": 21,
+      "city": "澎湖縣",
+      "EngName": "Penghu County",
+      "cata": "縣",
+      "cityFlag": "",
+      "area": "126.8641",
+      "population": "106,340",
+      "increasingRate": "+30",
+      "councilLocation": "馬公市"
+    },
+    {
+      "rank": 22,
+      "city": "連江縣",
+      "EngName": "Lienchiang County",
+      "cata": "縣",
+      "cityFlag": "",
+      "area": "28.8000",
+      "population": "13,645",
+      "increasingRate": "+68",
+      "councilLocation": "南竿鄉"
+    }
+  ]}
+]
